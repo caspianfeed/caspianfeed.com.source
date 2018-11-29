@@ -49,7 +49,7 @@ googleAnalytics = "BSF, BSFL, Black Soldier Fly, Waste, Organic Waste, Bioconver
 	# About section
 	[params.about]
 		headline    = "Who We Are"
-		description = "Caspian Feed was founded in 2018 by Aras Balali Moghaddam and Brent Herman after two years of collaboration on breeding and rearing black soldier flies. Brent is the owner of [Cherry Creek Cricket and Worm Farm](https://cherrycreekcricketfarm.com/) and has two decades of experience designing breeding and rearing facilities for several different types of insects. Aras is a [farmer](http://caspianacres.ca) and [technologist](http://cypressrobotics.ca/) and has been designing systems for integrating black soldier flies into farms"
+		description = "Caspian Feed was founded in 2018 by Aras Balali Moghaddam and Brent Herrmann after two years of collaboration on breeding and rearing black soldier flies. Brent is the owner of [Cherry Creek Cricket and Worm Farm](https://cherrycreekcricketfarm.com/) and has two decades of experience designing breeding and rearing facilities for several different types of insects. Aras is a [farmer](http://caspianacres.ca) and [technologist](http://cypressrobotics.ca/) and has been designing systems for integrating black soldier flies into farms"
 		# buttonText  = "Get started!"
 
 
@@ -60,12 +60,12 @@ googleAnalytics = "BSF, BSFL, Black Soldier Fly, Waste, Organic Waste, Bioconver
         [[params.services.list]]
             icon = "fa-diamond"
             title = "Design"
-            description = "We are available for consultation to help you design and build a custom black soldier fly rearing unit at your facility, so instead of spending money to get rid of your organic waste you can make money with it. Alternatively, you can choose one of our mdular and proven designs to implement"
+            description = "We are available for consultation to help you design and build a custom black soldier fly rearing unit at your facility, so instead of spending money to get rid of your organic waste you can make money with it. Alternatively, you can choose one of our modular and proven designs to implement"
 
         [[params.services.list]]
 						icon = "fa-paper-plane"
 						title = "Ship"
-						description = "We handle the dirty work of breeding and hatching eggs so you can have a continouse supply of healthy 5 day old that are ready to consume fresh organic waste of any kind. Whether you need one thausand or one million larvae a month, we have you covered. We ship our larvae as five day old so they are strong, healthy and hungry!"
+						description = "We handle the dirty work of breeding and hatching eggs so you can have a continuous supply of healthy 5 day old larvae that are ready to consume fresh organic waste of any kind. Whether you need one thousand or one million larvae a month, we have you covered. We ship our larvae as five day old so they are strong, healthy and hungry!"
 
 		    [[params.services.list]]
             icon = "fa-tachometer"
@@ -75,7 +75,7 @@ googleAnalytics = "BSF, BSFL, Black Soldier Fly, Waste, Organic Waste, Bioconver
 				[[params.services.list]]
 			 		 icon = "fa-handshake-o"
 			 		 title = "Connect"
-			 		 description = "Join a local network of producers and consumer. If you end up with an excess amount of larvae we can connect you to fish and poultry farmers who would be interested in purchasing your product and if you end up with extra fertilizer we connnect you to farmers who would be interested in that prodcut to help them build healthier soil."
+			 		 description = "Join a local network of producers and consumers. If you end up with an excess amount of larvae we can connect you to fish and poultry farmers who would be interested in purchasing your product and if you end up with extra fertilizer we connnect you to farmers who would be interested in that prodcut to help them build healthier soil."
 
     # Portfolio modals
 	[params.portfolio.modal]
