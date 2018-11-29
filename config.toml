@@ -1,0 +1,106 @@
+baseurl = "http://caspianfeed.com/"
+languageCode = "en-us"
+title = "Caspian Feed Ltd."
+theme = "hugo-creative-theme"
+googleAnalytics = "BSF, BSFL, Black Soldier Fly, Waste, Organic Waste, Bioconversion, BC, British Columbia, Canada"
+
+[params]
+
+	# You can use Markdown syntax for urls [text](//url.to/source) for
+	# most longer texts.
+
+	# All icons using Fontawesome's icon font. Look at http://fontawesome.io/icons/
+	# for more icons. The icons are represented by their corresponding
+	# CSS class.
+
+	# All projects of the portfolio are defined in their own files.
+	# You can find example projects at 'exampleSite/data/projects'. Copy the 'projects'
+	# folder into the 'data' directory at the root of this Hugo site.
+	# For more information take a look at the README.
+
+	# To provide some metadata for search engines feel free to add some
+	# information about you and your website.
+	name = "Caspian Feed"
+	description = "We offer services around the use of black soldier flies for waste treatment. We sell 5DOL BSFL in Canada. We design and build facilities for rearing black soldier flies in Canada"
+
+	# The path must be relative to the static folder
+	favicon = "favicon.ico"
+
+	# Navigation
+	[params.navigation]
+		brand = "CASPIAN FEED LTD."
+
+	[params.navigation.links]
+		about     = "About"
+		services  = "Services"
+		projects  = "Projects"
+		portfolio = "Portfolio"
+		contact   = "Contact"
+
+
+	# Hero section
+	[params.hero]
+		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
+		slogan     = "Make Feed Not Waste"
+		subtitle   = "There is no waste in nature. Let us help you turn your organic waste into high quality feed and fertilizer with the help of black soldier flies."
+		buttonText = "Find out more"
+
+
+	# About section
+	[params.about]
+		headline    = "Who We Are"
+		description = "Caspian Feed was founded in 2018 by Aras Balali Moghaddam and Brent Herman after two years of collaboration on breeding and rearing black soldier flies. Brent is the owner of [Cherry Creek Cricket and Worm Farm](https://cherrycreekcricketfarm.com/) and has two decades of experience designing breeding and rearing facilities for several different types of insects. Aras is a [farmer](http://caspianacres.ca) and [technologist](http://cypressrobotics.ca/) and has been designing systems for integrating black soldier flies into farms"
+		# buttonText  = "Get started!"
+
+
+	# Service section
+	[params.services]
+		headline = "At your service"
+
+        [[params.services.list]]
+            icon = "fa-diamond"
+            title = "Design"
+            description = "We are available for consultation to help you design and build a custom black soldier fly rearing unit at your facility, so instead of spending money to get rid of your organic waste you can make money with it. Alternatively, you can choose one of our mdular and proven designs to implement"
+
+        [[params.services.list]]
+						icon = "fa-paper-plane"
+						title = "Ship"
+						description = "We handle the dirty work of breeding and hatching eggs so you can have a continouse supply of healthy 5 day old that are ready to consume fresh organic waste of any kind. Whether you need one thausand or one million larvae a month, we have you covered. We ship our larvae as five day old so they are strong, healthy and hungry!"
+
+		    [[params.services.list]]
+            icon = "fa-tachometer"
+            title = "Monitor"
+            description = "Add a low cost internet of things based monitoring system to your rearing facility, to make sure everything is working as expected. We can integrate IoT solutions into your design from the begining to help create a flow that works for you"
+
+				[[params.services.list]]
+			 		 icon = "fa-handshake-o"
+			 		 title = "Connect"
+			 		 description = "Join a local network of producers and consumer. If you end up with an excess amount of larvae we can connect you to fish and poultry farmers who would be interested in purchasing your product and if you end up with extra fertilizer we connnect you to farmers who would be interested in that prodcut to help them build healthier soil."
+
+    # Portfolio modals
+	[params.portfolio.modal]
+        client = "Client"
+        date = "Date"
+        category = "Category"
+        buttonText = "Close"
+
+  #   # Aside section
+	# [params.aside]
+	# 	headline = "Get the Creative Theme for Hugo"
+	#
+	# 	[params.aside.button]
+	# 		text = "Download now"
+	# 		link = "//github.com/digitalcraftsman/hugo-creative-theme"
+
+	# Contact section
+	[params.contact]
+		headline = "Let's Get In Touch!"
+		description = "Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!"
+		phone = "778-586-0917"
+		email = "info@caspianfeed.com"
+
+	# Google Maps section
+	# [params.location]
+	# 	latitude  = "34.007850"
+	# 	longitude = "-118.499305"
+	# 	maps_api_key = ""
