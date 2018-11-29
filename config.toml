@@ -1,4 +1,4 @@
-baseurl = "http://caspianfeed.com/"
+baseurl = "https://caspianfeed.com/"
 languageCode = "en-us"
 title = "Caspian Feed Ltd."
 theme = "hugo-creative-theme"
